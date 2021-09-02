@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning problem solving and algorithms  .
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything,Python and Web Technologies :smile:
+- 💬 Ask me anything about Python and Web Technologies :smile:
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 <br>
